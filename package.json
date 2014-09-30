@@ -7,7 +7,7 @@
     "jsxcs": "./bin/jsxcs"
   },
   "dependencies": {
-    "jscs": "~1.5.9",
+    "jscs": "^1.6.2",
     "react-tools": "~0.10.0",
     "vow": "~0.4.3",
     "vow-fs": "~0.3.1",
